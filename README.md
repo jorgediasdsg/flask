@@ -12,7 +12,7 @@ Treinamento de flask api
 
     # Instalando dependências
     pip install flask
-    pipl install sqlalchemy
+    pip install sqlalchemy
 
 # Rodando o projeto
 
